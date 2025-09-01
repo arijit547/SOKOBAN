@@ -62,7 +62,7 @@ All tile graphics are stored in the `assets/` folder:
 Levels are defined as arrays of strings in the source code. Each character represents a tile type. Four levels are included, ranging from simple to advanced.
 
 ## About
-- **Author:** Sinobi Trinity(Arijit, Riddhi, Ifthe)
+- **Author:** Shinobi Trinity(Riddhi, Ifthe, Arijit)
 - **Year:** 2025
 - **Version:** Enhanced Edition v1.1
 - **Built with:** Raylib
